@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Tech News Summaarizer
+# Tech News Summarizer
 
 Final project for the Building AI course
 
@@ -13,7 +13,7 @@ This project aims to generate a short summary on every daily technology news. Th
 
 ## Background
 
-Every day in the morning, I and my friends take quite a long time read and catching up with all the news. We human only have 24 hours a day and information in the world is growing rapidly. Summarizing them can definitely free our times for doing other stuff.
+Every day in the morning, my friends and I often take quite a long time reading and catching up with all the news daily. We human only have 24 hours a day and information in the world is growing rapidly. Summarizing them can definitely free our times for doing other stuff.
 
 
 ## How is it used?
