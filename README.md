@@ -2,23 +2,18 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Background Game Music Generator
+# Tech News Summaarizer
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project aims to generate a short summary on every daily technology news. This summarizer will need to identify technology news, grouping and classify news articles from multiple sources, then summarize it from all those sources.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Every day in the morning, I and my friends take quite a long time read and catching up with all the news. We human only have 24 hours a day and information in the world is growing rapidly. Summarizing them can definitely free our times for doing other stuff.
 
 
 ## How is it used?
